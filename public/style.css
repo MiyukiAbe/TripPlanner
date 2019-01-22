@@ -11,5 +11,14 @@ body {
 #map {
   height: 100vh;
   width: 100vw;
+
 }
+/* 
+/* .mapboxgl-marker{
+  z-index: 99;
+  width: 25px;
+  height: 25px;
+  
+}
+ */ */
 
